@@ -90,14 +90,14 @@
 # ----------------------------------------------------
 # /////////////About us//////////////////////////////
 # ---------------------------------------------------
-# /		Md Habibullah		                            	/
-# /	Email:Fake.habibullah.habib@gmail.com         	/
-# /	phone No:01935204001		                      	/  
-# /		Fatima Tuz Jahura		                          / 
-# /    Email:fatima.fatimatuzjahura16f@gmail.com	  /
-# /		Jyoti Biswas		                            	/
-# /	Email:ishabiswas287@gmail.com	                	/
-# /   Student of Computer Science Engineering     	/
-# /   North Western University,Khulna,Bangladesh  	/
+# 		Md Habibullah		                            	
+# 	Email:Fake.habibullah.habib@gmail.com         	
+# 	phone No:01935204001		                      	
+# 		Fatima Tuz Jahura		                          
+#     Email:fatima.fatimatuzjahura16f@gmail.com	  
+# 		Jyoti Biswas		                            	
+# 	Email:ishabiswas287@gmail.com	                	
+#    Student of Computer Science Engineering     	
+#    North Western University,Khulna,Bangladesh  	
 # ------------------------------------------------------
 # ------------------------------------------------------
